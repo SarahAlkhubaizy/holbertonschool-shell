@@ -1,1 +1,1 @@
-Holberton School Shell project
+Shell basics tasks
